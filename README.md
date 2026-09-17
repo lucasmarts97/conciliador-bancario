@@ -62,7 +62,7 @@ Dê duplo clique em `iniciar_conciliador.bat`:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/<seu-usuario>/conciliador-bancario.git
+git clone https://github.com/lucasmarts97/conciliador-bancario.git
 cd conciliador-bancario
 
 # Crie e ative um ambiente virtual (recomendado)
